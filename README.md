@@ -1,4 +1,5 @@
 # Scientific Python Technical Notes
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23119904.svg)](https://doi.org/10.5281/zenodo.23119904)
 
 ## From Mathematical Meaning to Verified Computation
 
