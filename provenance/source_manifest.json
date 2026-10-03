@@ -1,0 +1,167 @@
+[
+  {
+    "id": "P0",
+    "title": "Scientific Python Ecosystem Map",
+    "notebook": "notebooks/TN_P0_Scientific_Python_Ecosystem_Map_EN.ipynb",
+    "source": "TN_P0_Scientific_Python_Ecosystem_Map_executed(1).ipynb",
+    "source_sha256": "84beb4b80720c8d56779f294ba475cba109238c47385cbf95678d50fa2e30f2a",
+    "source_code_cells": 8,
+    "english_code_cells": 9,
+    "numbered_topics": 17,
+    "preserved_language_independent_display_formulas": 17
+  },
+  {
+    "id": "P1",
+    "title": "Python Computational Grammar",
+    "notebook": "notebooks/TN_P1_Python_Computational_Grammar_EN.ipynb",
+    "source": "TN_P1_Python_Computational_Grammar_executed(1).ipynb",
+    "source_sha256": "a63e6976ba229a389f45fa67653ac986ff90577b179f28db381dd3f526a50cdd",
+    "source_code_cells": 29,
+    "english_code_cells": 30,
+    "numbered_topics": 34,
+    "preserved_language_independent_display_formulas": 27
+  },
+  {
+    "id": "P2",
+    "title": "NumPy Array, Shape, Axis",
+    "notebook": "notebooks/TN_P2_NumPy_Array_Shape_Axis_EN.ipynb",
+    "source": "TN_P2_NumPy_Array_Shape_Axis_executed(1).ipynb",
+    "source_sha256": "566f6880d2f424184a2be7a4366ae0c5185210c0edb2aeeefdd019bfa68e8b12",
+    "source_code_cells": 33,
+    "english_code_cells": 34,
+    "numbered_topics": 41,
+    "preserved_language_independent_display_formulas": 40
+  },
+  {
+    "id": "P3",
+    "title": "NumPy Indexing, Slicing, Broadcasting",
+    "notebook": "notebooks/TN_P3_NumPy_Indexing_Slicing_Broadcasting_EN.ipynb",
+    "source": "TN_P3_NumPy_Indexing_Slicing_Broadcasting_executed(1).ipynb",
+    "source_sha256": "3ece26c874e5c2a1eb80f512edf15b539a5c9841f5127a2c5103c7e01660551d",
+    "source_code_cells": 48,
+    "english_code_cells": 49,
+    "numbered_topics": 50,
+    "preserved_language_independent_display_formulas": 45
+  },
+  {
+    "id": "P4",
+    "title": "NumPy Vector, Matrix, Tensor Operations",
+    "notebook": "notebooks/TN_P4_NumPy_Vector_Matrix_Tensor_Operations_EN.ipynb",
+    "source": "TN_P4_NumPy_Vector_Matrix_Tensor_Operations_executed(1).ipynb",
+    "source_sha256": "0a8992e0a2401680df011197ba30e5700c98f597dab9e3640623238d127783d8",
+    "source_code_cells": 66,
+    "english_code_cells": 68,
+    "numbered_topics": 70,
+    "preserved_language_independent_display_formulas": 81
+  },
+  {
+    "id": "P5A",
+    "title": "NumPy Fields and Grids: Foundations",
+    "notebook": "notebooks/TN_P5A_NumPy_Fields_and_Grids_EN.ipynb",
+    "source": "TN_P5_NumPy_Fields_and_Grids_executed(2).ipynb",
+    "source_sha256": "1336d6f0c691dbc934eb45113aece9a300fc90e036682be178fd731331ad1867",
+    "source_code_cells": 13,
+    "english_code_cells": 14,
+    "numbered_topics": 18,
+    "preserved_language_independent_display_formulas": 41
+  },
+  {
+    "id": "P5B",
+    "title": "NumPy Fields and Grids: FDM Discrete Operators",
+    "notebook": "notebooks/TN_P5B_NumPy_Fields_and_Grids_v02_FDM_Discrete_Operators_EN.ipynb",
+    "source": "TN_P5_NumPy_Fields_and_Grids_v02_FDM_Discrete_Operators_executed(1).ipynb",
+    "source_sha256": "ccb5e6efdcab808f164ebe28d4d847711b224df0c8d01418929da98a17b9a5ca",
+    "source_code_cells": 27,
+    "english_code_cells": 29,
+    "numbered_topics": 36,
+    "preserved_language_independent_display_formulas": 87
+  },
+  {
+    "id": "P6",
+    "title": "NumPy Advanced Array Operations",
+    "notebook": "notebooks/TN_P6_NumPy_Advanced_Array_Operations_v02_Vectorization_Catalog_EN.ipynb",
+    "source": "TN_P6_NumPy_Advanced_Array_Operations_v02_Vectorization_Catalog_executed(1).ipynb",
+    "source_sha256": "b57ccf6f3acbfa7f06c1235016175c98b49316f3364fb8360aab851d0609dfdb",
+    "source_code_cells": 76,
+    "english_code_cells": 77,
+    "numbered_topics": 53,
+    "preserved_language_independent_display_formulas": 25
+  },
+  {
+    "id": "P7",
+    "title": "SciPy Linear Algebra",
+    "notebook": "notebooks/TN_P7_SciPy_Linear_Algebra_EN.ipynb",
+    "source": "TN_P7_SciPy_Linear_Algebra_executed(1).ipynb",
+    "source_sha256": "f0d6e92d95bb5064be7ff5e2ceae2381fbf9185d5adc98ef3dba9ba8a2e3fa04",
+    "source_code_cells": 13,
+    "english_code_cells": 14,
+    "numbered_topics": 18,
+    "preserved_language_independent_display_formulas": 29
+  },
+  {
+    "id": "P8",
+    "title": "SciPy Sparse Matrices and Sparse Solvers",
+    "notebook": "notebooks/TN_P8_SciPy_Sparse_Matrices_and_Solvers_EN.ipynb",
+    "source": "TN_P8_SciPy_Sparse_Matrices_and_Solvers_executed(1).ipynb",
+    "source_sha256": "68b37c2190d137078fdf3045db5d3017f1a14b98cd19ea6e21753f2f8df994c3",
+    "source_code_cells": 23,
+    "english_code_cells": 25,
+    "numbered_topics": 33,
+    "preserved_language_independent_display_formulas": 31
+  },
+  {
+    "id": "P9",
+    "title": "SciPy Nonlinear Equations and Root Finding",
+    "notebook": "notebooks/TN_P9_SciPy_Nonlinear_Equations_and_Root_Finding_EN.ipynb",
+    "source": "TN_P9_SciPy_Nonlinear_Equations_and_Root_Finding_executed(1).ipynb",
+    "source_sha256": "51d83bc0c8c743dcd18679bb0f64ad132ed0d1882b0eb4d9bdc1bd441b107386",
+    "source_code_cells": 18,
+    "english_code_cells": 19,
+    "numbered_topics": 31,
+    "preserved_language_independent_display_formulas": 47
+  },
+  {
+    "id": "P10",
+    "title": "SciPy ODE and Time Integration",
+    "notebook": "notebooks/TN_P10_SciPy_ODE_and_Time_Integration_EN.ipynb",
+    "source": "TN_P10_SciPy_ODE_and_Time_Integration_executed(1).ipynb",
+    "source_sha256": "153044831b729795aa5fb69abd3a612764f5adae2ca827f16537d2add85fed58",
+    "source_code_cells": 21,
+    "english_code_cells": 23,
+    "numbered_topics": 39,
+    "preserved_language_independent_display_formulas": 44
+  },
+  {
+    "id": "P11",
+    "title": "SciPy Optimization and Least Squares",
+    "notebook": "notebooks/TN_P11_SciPy_Optimization_and_Least_Squares_EN.ipynb",
+    "source": "TN_P11_SciPy_Optimization_and_Least_Squares_executed(1).ipynb",
+    "source_sha256": "35d7556284c51882040b83390260ec0809bddaada5244c96decfd881e3bbf450",
+    "source_code_cells": 24,
+    "english_code_cells": 26,
+    "numbered_topics": 38,
+    "preserved_language_independent_display_formulas": 54
+  },
+  {
+    "id": "P12",
+    "title": "SciPy Interpolation, Integration, and Numerical Differentiation",
+    "notebook": "notebooks/TN_P12_SciPy_Interpolation_Integration_Numerical_Differentiation_EN.ipynb",
+    "source": "TN_P12_SciPy_Interpolation_Integration_Numerical_Differentiation_executed(1).ipynb",
+    "source_sha256": "2791795bea24fd2d2c6992dce6cef21a225d96cc9b2232b4521a6f827a55efd3",
+    "source_code_cells": 21,
+    "english_code_cells": 22,
+    "numbered_topics": 31,
+    "preserved_language_independent_display_formulas": 42
+  },
+  {
+    "id": "P13",
+    "title": "Matplotlib, pandas, and Verification Workflow",
+    "notebook": "notebooks/TN_P13_Matplotlib_pandas_Verification_Workflow_EN.ipynb",
+    "source": "TN_P13_Matplotlib_pandas_Verification_Workflow_executed(1).ipynb",
+    "source_sha256": "608c2e58a248e61ec3ac260cfe15772398177c8f44dfa000e6d7f41dd7ff035b",
+    "source_code_cells": 33,
+    "english_code_cells": 35,
+    "numbered_topics": 52,
+    "preserved_language_independent_display_formulas": 34
+  }
+]

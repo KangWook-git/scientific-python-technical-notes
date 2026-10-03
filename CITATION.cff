@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite this educational technical-note collection if you reuse it."
+type: software
+title: "Scientific Python Technical Notes: From Mathematical Meaning to Verified Computation"
+version: 1.0.0
+date-released: 2026-10-03
+authors:
+  - family-names: Kang
+    given-names: Wook
+abstract: "An adapted and expanded English series connecting mathematical tasks to arrays, numerical algorithms, and verification evidence. Includes 15 executable notebooks, HTML exports, provenance, and a reproducible execution workflow."
+keywords:
+  - Scientific Python
+  - NumPy
+  - SciPy
+  - Numerical methods
+  - Jupyter notebooks
+  - Numerical verification
+  - Wood science
